@@ -29,7 +29,7 @@ public class Main {
         System.out.println("2756 pessoas escolheram Diesel");
       } else {
         System.out.println("Opção inválida. Por favor, escolha novamente.");
-      }
-    }
-  }
+}
+}
+}
 }
